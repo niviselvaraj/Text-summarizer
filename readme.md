@@ -15,10 +15,13 @@ This project takes input text, processes it using Natural Language Processing, a
 
 ## 📂 Project Structure
 Text-Summarizer/
+
 │── app.py              # Flask backend
-│── templates/
-│   └── index.html      # Frontend UI
+
+│── index.html      # Frontend UI
+
 │── requirements.txt    # Dependencies
+
 │── README.md           # Documentation
 
 -----
@@ -48,4 +51,5 @@ The main libraries used are:
 1.Flask
 
 2.NLTK
+
 (see requirements.txt for exact versions)
